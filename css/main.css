@@ -4,3 +4,11 @@
   box-sizing: border-box;
   margin: 0px;
 }
+
+body {
+  background-color: black;
+  font-family: monospace;
+  color: greenyellow;
+  text-align: center;
+  margin-top: 10%;
+}
